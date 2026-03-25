@@ -22,6 +22,7 @@ public class RecursiveBinarySearch
       System.out.println( value + " found at index " + index );
     else
       System.out.println( value + " not found" );
+    scan.close();
   }
 
   /** recursiveBinarySearch method

@@ -8,5 +8,5 @@ Programming Examples From Java Illuminated Book by Anderson and Franceschi
 **Example12_06** - Computing combinations recursively  
 **Example12_08** - Summing the elements of an array using recursion  
 **Example12_09** - Searching an array sorted in ascending order using recursion  
-**Example12_11** - Sorting an array of integers using a recursive merge sort  
-**Example12_12** - Sorting an array of integers using a recursive quick sort  
+**Example12_11** - Sorting an array of integers using a recursive merge sort https://www.w3schools.com/dsa/dsa_algo_mergesort.php  
+**Example12_12** - Sorting an array of integers using a recursive quick sort https://www.w3schools.com/dsa/dsa_algo_quicksort.php  
